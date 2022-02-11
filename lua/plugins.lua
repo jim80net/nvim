@@ -241,7 +241,7 @@ packer.startup {
         use 'kopischke/vim-stay'
         use 'liuchengxu/vista.vim'
         use 'machakann/vim-swap'
-        use 'matze/vim-move'
+        -- use 'matze/vim-move'
         use 'mbbill/undotree'
         use 'mg979/vim-visual-multi'
         use 'romainl/vim-qf'
