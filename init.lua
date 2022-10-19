@@ -17,7 +17,7 @@ if vim.version().major == 0 and vim.version().minor < 7 then
 end
 
 require('globals')
-require('packer-init')
+-- require('packer-init')
 
 local has_module  = require('utils').has_module
 
