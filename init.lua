@@ -42,5 +42,3 @@ end
 if has_module('user.after') then
     require('user.after')
 end
-
-require('update')
